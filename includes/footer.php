@@ -10,7 +10,7 @@
             </div>
 
             <div class="col-12 pt-5">
-                <a class="image-center d-flex justify-content-center" href="index.php"> <img src="..." height="20px" width="150px" alt="Susana Roma Buch logo"> </a>
+                <a class="image-center d-flex justify-content-center" href="index.php"> <img src="image/SRBuch-logo.png" height="30px" width="160px" alt="Susana Roma Buch logo"> </a>
             </div>
 
             <div class="col-12 pt-5 pt-sm-5 w-lg-50 text-center">
