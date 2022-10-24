@@ -3,7 +3,7 @@
 
     <div class="container-fluid">
 
-        <a class="navbar-brand ps-lg-5" href="index.php"> <img src="..." height="20px" width="100px" alt="Susana Roma Buch logo"> </a>
+        <a class="navbar-brand ps-lg-5" href="index.php"> <img src="image/SRBuch-logo.png" height="20px" width="100px" alt="Susana Roma Buch logo"> </a>
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
