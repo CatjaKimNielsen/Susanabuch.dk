@@ -12,10 +12,10 @@
         <div class="collapse navbar-collapse w-100 justify-content-end pe-lg-5" id="navbarNavDropdown">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link roboto" aria-current="page" href="seo_og_marketing.php">SEO og marketing</a>
+                    <a class="nav-link lato" aria-current="page" href="seo_og_marketing.php">SEO og marketing</a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link roboto" aria-current="page" href="andre_projekter.php">Andre projekter</a>
+                    <a class="nav-link lato" aria-current="page" href="andre_projekter.php">Andre projekter</a>
                 </li>
             </ul>
         </div>
