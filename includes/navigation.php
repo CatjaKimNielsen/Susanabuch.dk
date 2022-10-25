@@ -17,6 +17,9 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link lato" aria-current="page" href="andre_projekter.php">Andre projekter</a>
                 </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link lato" aria-current="page" href="kontakt.php">Kontakt</a>
+                </li>
             </ul>
         </div>
 
